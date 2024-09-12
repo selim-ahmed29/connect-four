@@ -1,2 +1,1 @@
-Connect four game
-html & css & js 
+Connect-4 game
