@@ -21,10 +21,10 @@ h2{
     margin-bottom: 20px;
 }
 
-.info.name.play1,.info.score.play1{
+#playOne ,#score1{
     color: red;
 }
-.info.name.play2,.info.score.play2{
+#playTwo ,#score2{
     color: yellow;
 }
 
