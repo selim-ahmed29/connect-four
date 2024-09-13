@@ -9,8 +9,8 @@ let board = Array(7).fill(null).map(() => Array(6).fill(0));
 function startGame() {
     player1 = prompt("Enter the name of the first player:");
     player2 = prompt("Enter the name of the second player:");
-    document.getElementById("playOne").innerText = player1;
-    document.getElementById("playTwo").innerText = player2;
+    document.getElementById("playOne").innerText = player1 " =";
+    document.getElementById("playTwo").innerText = player2 " =";
     document.getElementById("score1").innerText = player1Score;
     document.getElementById("score2").innerText = player2Score;
 }
