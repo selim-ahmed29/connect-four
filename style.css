@@ -22,6 +22,13 @@ h2{
     margin-bottom: 20px;
 }
 
+#playOne{
+    color:red
+}
+#playTwo{
+    color:yellow
+}
+
 
 .info{
     display: grid;
