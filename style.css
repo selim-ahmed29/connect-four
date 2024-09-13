@@ -22,10 +22,10 @@ h2{
     margin-bottom: 20px;
 }
 
-#playOne{
+.play1{
     color: red;
 }
-#playTwo{
+.play2{
     color: yellow;
 }
 
