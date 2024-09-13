@@ -18,14 +18,13 @@ h1{
     box-shadow: 0px 8px 4px 0px #2411be;
 }
 h2{
-    color:white
     margin-bottom: 20px;
 }
 
-.play1{
+.info.name.play1,.info.score.play1{
     color: red;
 }
-.play2{
+.info.name.play2,.info.score.play2{
     color: yellow;
 }
 
